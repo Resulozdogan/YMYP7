@@ -1,0 +1,5 @@
+deneme123
+git log
+tekrar deneme
+deniyoruz
+merhaba
